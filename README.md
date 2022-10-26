@@ -16,7 +16,7 @@
 
 5. Brain: Progression - write the missing number in progression
 
-## *How to Install games*
+### *How to Install games*
 
  npm install -g shlyapnikovbrain-games@1.1.6
 
