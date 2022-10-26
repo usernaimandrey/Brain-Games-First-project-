@@ -20,7 +20,7 @@
 
  npm install -g shlyapnikovbrain-games@1.1.6
 
-## *How to Use*
+### *How to Use*
 
 Type to CLI: brain - 'name of the game'. For example:
 
